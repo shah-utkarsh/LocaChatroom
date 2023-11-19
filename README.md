@@ -23,12 +23,6 @@ LocaChatRoom is a personal project that showcases my skills in mobile computing.
 - **Efficient Trip Planning**: Calculates and displays estimated travel times for various routes.
 
 
-
-## Building and Running
-
-- **Build Instructions**: Detailed steps to build the application in Android Studio.
-- **Running the App**: Guide on how to run the application on an emulator or physical device.
-
 ## Personal Learning and Development
 
 This project was an opportunity for me to deepen my understanding of mobile computing concepts, particularly in integrating various APIs and managing real-time data. It also allowed me to enhance my skills in Android development and user interface design.
